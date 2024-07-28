@@ -1,0 +1,264 @@
+[
+    {
+      "word": "apple",
+      "hints": [
+        "Es una fruta.",
+        "Es roja o verde.",
+        "Newton la observó caer.",
+        "Se usa para hacer sidra."
+      ]
+    },
+    {
+      "word": "bread",
+      "hints": [
+        "Es un alimento.",
+        "Se hace con harina.",
+        "Se hornea.",
+        "Es básico en muchas culturas."
+      ]
+    },
+    {
+      "word": "chair",
+      "hints": [
+        "Es un mueble.",
+        "Se usa para sentarse.",
+        "Tiene patas.",
+        "A veces tiene respaldo."
+      ]
+    },
+    {
+      "word": "dance",
+      "hints": [
+        "Es una actividad.",
+        "Se realiza con música.",
+        "Puede ser artística.",
+        "Se usa el cuerpo para expresarse."
+      ]
+    },
+    {
+      "word": "eagle",
+      "hints": [
+        "Es un ave.",
+        "Es símbolo de poder.",
+        "Tiene una vista aguda.",
+        "Es un depredador."
+      ]
+    },
+    {
+      "word": "flame",
+      "hints": [
+        "Es el resultado de una combustión.",
+        "Es caliente.",
+        "Es de color rojo o amarillo.",
+        "Puede quemar."
+      ]
+    },
+    {
+      "word": "grape",
+      "hints": [
+        "Es una fruta.",
+        "Se usa para hacer vino.",
+        "Puede ser verde o morada.",
+        "Crece en racimos."
+      ]
+    },
+    {
+      "word": "heart",
+      "hints": [
+        "Es un órgano.",
+        "Bombea sangre.",
+        "Está asociado con el amor.",
+        "Es vital para vivir."
+      ]
+    },
+    {
+      "word": "image",
+      "hints": [
+        "Es una representación visual.",
+        "Puede ser una foto o un dibujo.",
+        "Se puede ver en pantallas.",
+        "Puede ser digital o física."
+      ]
+    },
+    {
+      "word": "jelly",
+      "hints": [
+        "Es un alimento.",
+        "Es dulce.",
+        "Puede ser de frutas.",
+        "Se unta en pan."
+      ]
+    },
+    {
+      "word": "knife",
+      "hints": [
+        "Es una herramienta.",
+        "Tiene un filo.",
+        "Se usa para cortar.",
+        "Puede ser peligroso."
+      ]
+    },
+    {
+      "word": "lemon",
+      "hints": [
+        "Es una fruta.",
+        "Es amarilla.",
+        "Es ácida.",
+        "Se usa en limonada."
+      ]
+    },
+    {
+      "word": "magic",
+      "hints": [
+        "Es un arte.",
+        "Involucra ilusiones.",
+        "Se asocia con lo sobrenatural.",
+        "Puede ser un truco."
+      ]
+    },
+    {
+      "word": "night",
+      "hints": [
+        "Es una parte del día.",
+        "Es oscura.",
+        "Se ven las estrellas.",
+        "Sigue al atardecer."
+      ]
+    },
+    {
+      "word": "ocean",
+      "hints": [
+        "Es un gran cuerpo de agua.",
+        "Es salado.",
+        "Tiene olas.",
+        "Es hogar de muchos peces."
+      ]
+    },
+    {
+      "word": "plant",
+      "hints": [
+        "Es un ser vivo.",
+        "Realiza fotosíntesis.",
+        "Puede tener flores.",
+        "Crece en la tierra."
+      ]
+    },
+    {
+      "word": "quiet",
+      "hints": [
+        "Es la ausencia de ruido.",
+        "Es sinónimo de silencio.",
+        "Se aprecia en bibliotecas.",
+        "Es calmado."
+      ]
+    },
+    {
+      "word": "river",
+      "hints": [
+        "Es un cuerpo de agua.",
+        "Fluye hacia el mar.",
+        "Puede ser navegable.",
+        "Tiene corriente."
+      ]
+    },
+    {
+      "word": "snake",
+      "hints": [
+        "Es un reptil.",
+        "No tiene patas.",
+        "Puede ser venenosa.",
+        "Se desliza por el suelo."
+      ]
+    },
+    {
+      "word": "table",
+      "hints": [
+        "Es un mueble.",
+        "Tiene una superficie plana.",
+        "Se usa para comer.",
+        "Puede tener cuatro patas."
+      ]
+    },
+    {
+      "word": "under",
+      "hints": [
+        "Indica posición.",
+        "Es lo opuesto a 'sobre'.",
+        "Está abajo de algo.",
+        "Se usa en preposiciones."
+      ]
+    },
+    {
+      "word": "vivid",
+      "hints": [
+        "Es un adjetivo.",
+        "Describe colores intensos.",
+        "Puede describir sueños.",
+        "Es sinónimo de brillante."
+      ]
+    },
+    {
+      "word": "whale",
+      "hints": [
+        "Es un mamífero marino.",
+        "Es muy grande.",
+        "Vive en el océano.",
+        "Puede cantar."
+      ]
+    },
+    {
+      "word": "xenon",
+      "hints": [
+        "Es un elemento químico.",
+        "Es un gas noble.",
+        "Se usa en luces.",
+        "Su símbolo es Xe."
+      ]
+    },
+    {
+      "word": "youth",
+      "hints": [
+        "Es una etapa de la vida.",
+        "Es sinónimo de juventud.",
+        "Es la época de la niñez.",
+        "Está antes de la adultez."
+      ]
+    },
+    {
+      "word": "zebra",
+      "hints": [
+        "Es un animal.",
+        "Tiene rayas blancas y negras.",
+        "Vive en África.",
+        "Es similar a un caballo."
+      ]
+    },
+    {
+      "word": "other",
+      "hints": [
+        "Indica algo diferente.",
+        "Es un pronombre.",
+        "Es lo contrario a 'mismo'.",
+        "Puede significar 'otro' en inglés."
+      ]
+    },
+    {
+      "word": "valid",
+      "hints": [
+        "Es un adjetivo.",
+        "Significa que algo es correcto.",
+        "Es lo opuesto a 'inválido'.",
+        "Se usa en contextos legales."
+      ]
+    },
+    {
+      "word": "words",
+      "hints": [
+        "Son unidades de lenguaje.",
+        "Se usan para comunicarse.",
+        "Se componen de letras.",
+        "Forman oraciones."
+      ]
+    }
+  ]
+  
