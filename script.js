@@ -30,10 +30,8 @@ function fetchWords() {
         .then(data => {
             targetWords = data;
             dictionary = targetWords.map(item => item.word);
-            const referenceDate = new Date(2022, 0, 1);
-            const msOffsetFromRefDate = Date.now() - referenceDate;
-            const dayOffsetFromRefDate = msOffsetFromRefDate / 1000 / 60 / 60 / 24;
-            const targetData = targetWords[Math.floor(dayOffsetFromRefDate % targetWords.length)];
+            // Selecciona una palabra aleatoria
+            const targetData = targetWords[Math.floor(Math.random() * targetWords.length)];
             targetWord = targetData.word;
             hints = targetData.hints;
             hintIndex = 0;
